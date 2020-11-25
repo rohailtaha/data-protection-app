@@ -11,4 +11,4 @@ The app also have fully functional settings. The user can do the tasks either on
 (permanenlty from the PC).
 In case one or multiple "directories" are selected, then all the files inside that directory(and it's subdirectories) are encrypted, decrypted or protected.
 
-NOTE: DO NOT alter the structure of files and directories INSIDE the project folder(project folder is named "data protection")
+NOTE: DO NOT alter the structure of files and directories INSIDE the project folder
