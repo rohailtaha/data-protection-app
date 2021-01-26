@@ -8,7 +8,7 @@ for Java Developers - 2020-03". One referenced library is used in the project na
 Our project was to build a data protection app that could encrypt, decrypt and password protect files. 
 For password protection, a zip file is made, selected files are added to it and then a password is assigned to those files. Ensure that no two files have the same name, otherwise only one file will be added to zip.
 The app also have fully functional settings. The user can do the tasks either on single or multiple files. The user may wish to keep original files or delete them
-(permanenlty from the PC).
+(permanently from the PC).
 In case one or multiple "directories" are selected, then all the files inside that directory(and it's subdirectories) are encrypted, decrypted or protected.
 
 NOTE: DO NOT alter the structure of files and directories INSIDE the project folder
