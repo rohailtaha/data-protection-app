@@ -9,7 +9,7 @@ The app also have fully functional settings. The user can do the tasks either on
 In case one or multiple "directories" are selected, then all the files inside that directory(and it's subdirectories) are encrypted, decrypted or protected.
 
 # Useful Resources
-- [**Stack Overflow**](https://stackoverflow.com/) 
+- [Stack Overflow](https://stackoverflow.com/) 
 - [Java Documentation](https://docs.oracle.com/en/java/javase/16/docs/api/index.html).
 
 ## Tools Used
